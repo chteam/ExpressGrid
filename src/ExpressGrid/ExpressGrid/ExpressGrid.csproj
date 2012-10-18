@@ -134,6 +134,25 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\contextmenu.css" />
+    <Content Include="Content\flexigrid.css" />
+    <Content Include="Content\Images\flexigrid-asc.gif" />
+    <Content Include="Content\Images\flexigrid-bg.gif" />
+    <Content Include="Content\Images\flexigrid-ddn.png" />
+    <Content Include="Content\Images\flexigrid-desc.gif" />
+    <Content Include="Content\Images\flexigrid-fhbg.gif" />
+    <Content Include="Content\Images\flexigrid-first.gif" />
+    <Content Include="Content\Images\flexigrid-hl.png" />
+    <Content Include="Content\Images\flexigrid-last.gif" />
+    <Content Include="Content\Images\flexigrid-line.gif" />
+    <Content Include="Content\Images\flexigrid-load.gif" />
+    <Content Include="Content\Images\flexigrid-load.png" />
+    <Content Include="Content\Images\flexigrid-magnifier.png" />
+    <Content Include="Content\Images\flexigrid-next.gif" />
+    <Content Include="Content\Images\flexigrid-prev.gif" />
+    <Content Include="Content\Images\flexigrid-uup.png" />
+    <Content Include="Content\Images\flexigrid-wbg.gif" />
+    <Content Include="Content\Images\flexigrid.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -191,6 +210,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Scripts\express.grid.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
